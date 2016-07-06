@@ -1,0 +1,37 @@
+
+<script type="text/javascript">
+	  window.addEventListener("load", scriptToLoad, false);
+    
+  function scriptToLoad(){
+    
+   function sectionHeight() {var tallestDiv = null
+    $(".benefit-listing").each(function() {
+    	if (tallestDiv == null) {
+    		tallestDiv = $(this).height();
+    	}
+    	else if ($(this).height() > tallestDiv) {
+    		 tallestDiv  = $(this).height();
+    		}
+    	});
+
+	 	var parseTall = parseInt (tallestDiv, 10);
+	 	var parseTallPadding = parseTall + (parseTall/100*6);
+ 	
+
+	    $(".benefit-listing").each(function(){
+	     $(this).css("min-height", parseTallPadding);
+	    });
+	};
+	
+	sectionHeight();
+
+	$(window).resize(function() {
+		$(".benefit-listing").each(function(){
+	     $(this).css("min-height", "auto");
+	    });
+		sectionHeight();
+	});
+
+    };
+
+</script>
