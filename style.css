@@ -1,0 +1,332 @@
+    /*Fonts*/
+
+
+
+@font-face {
+    font-family: 'choplinextralight-demo';
+    src: url('fonts/choplin-extralight-demo-webfont.eot');
+    src: url('fonts/choplin-extralight-demo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/choplin-extralight-demo-webfont.woff2') format('woff2'),
+         url('fonts/choplin-extralight-demo-webfont.woff') format('woff'),
+         url('fonts/choplin-extralight-demo-webfont.ttf') format('truetype'),
+         url('fonts/choplin-extralight-demo-webfont.svg#choplinextralight-demo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'choplinmedium-demo';
+    src: url('fonts/choplin-medium-demo-webfont.eot');
+    src: url('fonts/choplin-medium-demo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/choplin-medium-demo-webfont.woff2') format('woff2'),
+         url('fonts/choplin-medium-demo-webfont.woff') format('woff'),
+         url('fonts/choplin-medium-demo-webfont.ttf') format('truetype'),
+         url('fonts/choplin-medium-demo-webfont.svg#choplinmedium-demo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserratblack';
+    src: url('montserrat-black-webfont.eot');
+    src: url('montserrat-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserrat-black-webfont.woff2') format('woff2'),
+         url('montserrat-black-webfont.woff') format('woff'),
+         url('montserrat-black-webfont.ttf') format('truetype'),
+         url('montserrat-black-webfont.svg#montserratblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserratbold';
+    src: url('montserrat-bold-webfont.eot');
+    src: url('montserrat-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserrat-bold-webfont.woff2') format('woff2'),
+         url('montserrat-bold-webfont.woff') format('woff'),
+         url('montserrat-bold-webfont.ttf') format('truetype'),
+         url('montserrat-bold-webfont.svg#montserratbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserratextra_bold';
+    src: url('montserrat-extrabold-webfont.eot');
+    src: url('montserrat-extrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserrat-extrabold-webfont.woff2') format('woff2'),
+         url('montserrat-extrabold-webfont.woff') format('woff'),
+         url('montserrat-extrabold-webfont.ttf') format('truetype'),
+         url('montserrat-extrabold-webfont.svg#montserratextra_bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserrathairline';
+    src: url('montserrat-hairline-webfont.eot');
+    src: url('montserrat-hairline-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserrat-hairline-webfont.woff2') format('woff2'),
+         url('montserrat-hairline-webfont.woff') format('woff'),
+         url('montserrat-hairline-webfont.ttf') format('truetype'),
+         url('montserrat-hairline-webfont.svg#montserrathairline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserratlight';
+    src: url('fonts/montserrat-light-webfont.eot');
+    src: url('fonts/montserrat-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/montserrat-light-webfont.woff2') format('woff2'),
+         url('fonts/montserrat-light-webfont.woff') format('woff'),
+         url('fonts/montserrat-light-webfont.ttf') format('truetype'),
+         url('fonts/montserrat-light-webfont.svg#montserratlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserratregular';
+    src: url('fonts/montserrat-regular-webfont.eot');
+    src: url('fonts/montserrat-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/montserrat-regular-webfont.woff2') format('woff2'),
+         url('fonts/montserrat-regular-webfont.woff') format('woff'),
+         url('fonts/montserrat-regular-webfont.ttf') format('truetype'),
+         url('fonts/montserrat-regular-webfont.svg#montserratregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserratsemi_bold';
+    src: url('montserrat-semibold-webfont.eot');
+    src: url('montserrat-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserrat-semibold-webfont.woff2') format('woff2'),
+         url('montserrat-semibold-webfont.woff') format('woff'),
+         url('montserrat-semibold-webfont.ttf') format('truetype'),
+         url('montserrat-semibold-webfont.svg#montserratsemi_bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserratultra_light';
+    src: url('montserrat-ultralight-webfont.eot');
+    src: url('montserrat-ultralight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('montserrat-ultralight-webfont.woff2') format('woff2'),
+         url('montserrat-ultralight-webfont.woff') format('woff'),
+         url('montserrat-ultralight-webfont.ttf') format('truetype'),
+         url('montserrat-ultralight-webfont.svg#montserratultra_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+    body {margin:0;}
+    div, section, nav, figure, aside, img {-webkit-box-sizing: border-box;-moz-box-sizing: border-box; box-sizing: border-box;}
+
+  
+
+    .column {float:left;}
+    .bold {font-weight:bolder;}
+    
+
+    /*Header Styling*/
+
+    header {background: #339933;color:#ffffff;text-align:center;    padding: 30px 0 15px;}
+    header svg {fill:#ffffff;width:7%;margin:0 auto;}
+    a, li, label {font-family:'montserratregular', Arial, sans-serif}
+    p {font-family:'montserratlight', Arial, sans-serif}
+    a {text-decoration:none;color:#333333;}
+    header a {color:#ffffff}
+    .underline {text-decoration: underline;color:#663399;}
+    .underline:hover {opacity:0.8;}
+
+    h1, h2, h3, h4, h5 {font-family:'choplinextralight-demo', Arial, sans-serif;}
+    header p {font-family:'choplinmedium-demo', Arial, sans-serif;    text-transform: uppercase;font-size: 2em;margin:0;}
+    header p span {font-family: 'choplinextralight-demo', Arial, sans-serif;}
+    .top-nav {text-align:center;font-size:1.5em;padding: 15px 0;}
+    .top-nav a {text-decoration: none; padding:0 20px;color:#339933;}
+    .top-nav a:hover {color:#003300;}
+    .introduction {text-align:center;max-width:80%;font-size:1.3em;margin:10px auto;}
+    .introduction-top-5 {text-align:center;max-width:80%;margin:10px auto;}
+    .page-content {padding:0 40px;max-width:1235px;    margin: 0 auto;color:#333333;    min-height: 450px;}
+    .preview-review {padding-right:25px;}
+    .preview-review h2 {margin-top:0;}
+    .preview-review>div {padding: 10px;border: 5px solid #cccccc;margin: 0 0 20px;}
+    .preview-review>div img {border:1px solid #000000; }
+    .preview-review>div div p:first-of-type {margin:0;}
+    .preview-review>div div a {float: right;}
+    .preview-review>div div {padding:0 10px;}
+    .side-panel section {background:#003300;color:#ffffff;padding:20px;}
+    .side-panel a {color:#ffffff}
+    .side-panel .underline {float:right;color:#339933;}
+    .side-panel img {border:1px solid #ffffff;float:right;margin-left:20px;}
+    .side-panel h2 {margin:0;border-bottom:2px solid #ffffff;margin-bottom:5px;padding-bottom: 5px}
+    .star-rating {display:none;}
+    
+    .line {border-top:2px solid #ffffff;}
+    .top-5-home {border:5px solid #339933;}
+    .top-5-home h2 {color:#ffffff; background:#339933;padding:10px;margin:0;}
+    .top-5-home p {padding:0 10px;}
+    .top-5-home a {margin:0 10px 10px;float:right;}
+    .floatright {float:right;}
+    .hide {display:none;}
+    .social {display: block;    padding: 5px 10px;margin-top:10px}
+    .social svg {width:10%;display:inline-block;fill:#ffffff;  vertical-align: middle;}
+    .social p {display:inline-block;color:#ffffff;    vertical-align: middle; margin:0 0 0 20px;}
+    .facebook:hover  {background:#3399cc;}
+    .facebook {background:#336699;}
+    .twitter {background: #3399ff}
+     .twitter:hover {background: #66ccff}
+
+    /*Review Page*/
+    .review-top-section {border-bottom:1px solid #333333;padding-bottom:20px;}
+    .review-top-section h1 {margin-top:0;}
+    .review-top-section img {width:100%;}
+    .podcast-info {padding:0 15px 0 30px;}
+    .podcast-info svg {width:20%;}
+    .page-content svg text {font-size:99;    text-anchor: middle;}
+    .page-content svg path {fill:#ffffff;}
+    .serialised  circle {fill:#993399;}
+    .brain-food  circle {fill:#300000}
+    .easy-listen  circle {fill:#08672F;}
+    .one-hour-plus  circle {fill:#333399;}
+    .funny  circle {fill:#999933;}
+    .in-the-car  circle {fill:#cc3333;}
+    .empty-circle {fill:transparent!important;}
+    .review {margin:100px auto 50px;}
+    .review aside {text-align:right;font-size:1.3em;padding-left:5%;}
+    .review aside div {border-bottom:1px solid #666666;}
+    .review aside h3 {font-family:'choplinmedium-demo', Arial, sans-serif;}
+    .review aside div svg {fill:#333333;width:20%;display:inline-block;vertical-align: middle;}
+    .review aside div h4 {display:inline-block;    margin: 0; vertical-align: middle; font-size: 2em;}
+    .review aside a {color :#333333;}
+    .review-text  {margin-top: 45px;}
+    .review-text div {border-bottom:1px solid #333333;}
+    .stars svg {width:100%;fill:none;stroke:#333333;stroke-width:10px;fill:#ffff33;}
+    .one-stars svg polygon:nth-of-type(n+2) {fill:none;}
+    .two-stars svg polygon:nth-of-type(n+3) {fill:none;}
+    .three-stars svg polygon:nth-of-type(n+4) {fill:none;}
+    .four-stars svg polygon:nth-of-type(n+5) {fill:none;}
+    .five-stars svg polygon:nth-of-type(n+6) {fill:none;}
+    .review nav a {    font-size: 1.9em; margin-right: 10px;}
+
+    /*Top 5 List*/
+    .top-5-list {border: 3px solid #339933;padding: 10px 20px;border-radius: 9px;}
+    .top-5-list svg {width: 60%; margin: 0 auto;display: block;}
+    .top-5-list h2 {text-align:center;border-bottom:2px solid #cccccc;    margin: 0;}
+    .top-5-list p {    margin-top: 5px;}
+    .top-5 h1 {text-align: center;width:80%;margin:20px auto;}
+    .outer-top-5 {padding: 15px;}
+
+    footer {background:#d3d3d3;    margin-top: 40px;}
+    .footer-content {color: #666666;max-width:1235px;    margin: 0 auto;border-bottom:2px solid;}
+
+    .footer-content li {list-style: none;padding:5px 0;color:#666666;}
+    .footer-content ul {padding:40px 0 20px;width: 70%;display: inline-block;vertical-align: top}
+    .nameinfo {color: #666666;max-width:1235px;margin: 0 auto;}
+    .footer-social {width:30%;display: inline-block;vertical-align: top;padding-top:40px;}
+    .footer-social svg {width:20%;float:right;margin-left:10px}
+    .footer-social svg circle {fill:#666666;}
+    .footer-social svg path {fill:#d3d3d3;}
+    .footer-social svg:hover circle {fill:#999999}
+    .footer-content li:hover {color:#999999;}
+
+    /*Review Page*/
+
+    .reviews label {    font-size: 1.3em;margin-right: 20px}
+    .input-buttons {margin-bottom: 20px}
+
+    /*About page*/
+    .about .definition {color: #666666; border-top: 1px solid;border-bottom: 1px solid; width: 80%;margin: 0 auto;}
+
+    .small-1 {width: 8.33333%}
+    .small-2 {width: 16.66667%}
+    .small-3 {width: 25%}
+    .small-4 {width: 33.33333%}
+    .small-5 {width: 41.66667%}
+    .small-6 {width: 50%}
+    .small-7 {width: 58.33333%}
+    .small-8 {width: 66.66667%}
+    .small-9 {width: 75%}
+    .small-10 {width: 83.33333%}
+    .small-11 {width: 91.66667%}
+    .small-12 {width: 100%}
+
+
+    .clearboth {clear:both;border:none!important;margin:0!important;}
+    .no-margin {margin:0!important;}
+    .no-padding {padding:0!important;}
+
+
+@media screen and (min-width: 645px) {
+
+    .medium-1 {width: 8.33333% }
+    .medium-2 { width: 16.66667%}
+    .medium-3 { width: 25%;}
+    .medium-4 {width: 33.33333%}
+    .medium-5 {width: 41.66667%}
+    .medium-6 { width: 50%}
+    .medium-7 {width: 58.33333%}
+    .medium-8 {width: 66.66667%}
+    .medium-9 {width: 75%}
+    .medium-10 {width: 83.33333%}
+    .medium-11 {width: 91.66667%}
+    .medium-12 {width: 100%}
+    .medium-clear {clear:both;}
+}
+
+@media screen and (min-width: 1045px) {
+    .large-1 {width: 8.33333%}
+    .large-2 { width: 16.66667%}
+    .large-3 { width: 25% }
+    .large-4 {width: 33.33333%}
+    .large-5 { width: 41.66667%}
+    .large-6 {width: 50%}
+    .large-7 {width: 58.33333%}
+    .large-8 {width: 66.66667%}
+    .large-9 {width: 75%}
+    .large-10 {width: 83.33333% }
+    .large-11 {width: 91.66667%}
+    .large-12 {width: 100%}
+    .clear-large {clear:both;}
+}
+

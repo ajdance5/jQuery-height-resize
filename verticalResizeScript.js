@@ -1,11 +1,7 @@
-
-<script type="text/javascript">
-	  window.addEventListener("load", scriptToLoad, false);
-    
-  function scriptToLoad(){
+$( document ).ready(function() {
     
    function sectionHeight() {var tallestDiv = null
-    $(".benefit-listing").each(function() {
+    $(".top-5-list").each(function() {
     	if (tallestDiv == null) {
     		tallestDiv = $(this).height();
     	}
@@ -18,7 +14,7 @@
 	 	var parseTallPadding = parseTall + (parseTall/100*6);
  	
 
-	    $(".benefit-listing").each(function(){
+	    $(".top-5-list").each(function(){
 	     $(this).css("min-height", parseTallPadding);
 	    });
 	};
@@ -26,12 +22,9 @@
 	sectionHeight();
 
 	$(window).resize(function() {
-		$(".benefit-listing").each(function(){
+		$(".top-5-list").each(function(){
 	     $(this).css("min-height", "auto");
 	    });
 		sectionHeight();
 	});
-
-    };
-
-</script>
+});
